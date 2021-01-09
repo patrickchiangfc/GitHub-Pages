@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to my Page
+![Profile](/images/profile.png)
+**My name is Patrick Chiang**
+I am a 2nd year Computer Science student in Sixth College. During my free time I like to play music, dance, or game. A quote from Steve Jobs that has stuck with me is:
+>Everybody should learn to program a computer, because it teaches you how to think.
 
-You can use the [editor on GitHub](https://github.com/patrickchiangfc/GitHub-Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+It has been a while since I have worked with Git so for this Lab I had to search up easy commands such as:
+```
+git checkout
+git add
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickchiangfc/GitHub-Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site was built using [GitHub Pages](https://pages.github.com/).
