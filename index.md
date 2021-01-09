@@ -11,10 +11,10 @@ git add
 git commit
 ```
 A few of my hobbies include:
--Video Games
--Violin
--Dance
--Martial Arts
+- Video Games
+- Violin
+- Dance
+- Martial Arts
 
 Todo for this year:
 - [ ] Be competent with Git
