@@ -1,5 +1,5 @@
 # Welcome to my Page
-![Profile](KADOFF.JPG | height=100)
+<img src="KADOFF.JPG" height="100">
 **My name is Patrick Chiang**
 I am a 2nd year Computer Science student in Sixth College. During my free time I like to play music, dance, or game. A quote from Steve Jobs that has stuck with me is:
 >Everybody should learn to program a computer, because it teaches you how to think.
